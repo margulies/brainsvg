@@ -1,0 +1,4 @@
+numpy
+gdist
+nibabel
+scipy
